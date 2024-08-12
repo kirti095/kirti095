@@ -1,6 +1,6 @@
 -  Hi, I’m @kirti095
 -  I’m interested in Robotics [ AI and ML ].                                                                                     
--  I’m currently learning SQL and Backend (Node.js)
+-  I’m currently learning C++ and Backend (Node.js)
 -  I’m looking to collaborate on Web development projects Like ( coding games , clones  etc.)
 -  Reach me through my linkedIn Account - (Kirti Solanki)
 
